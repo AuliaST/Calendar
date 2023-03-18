@@ -10,7 +10,7 @@ import java.util.Scanner; //program imports the Scanner from the library
 import java.lang.Math;
 import java.util.*;
 import java.io.*;
-public class ATCalendar3
+public class Calendar
 {
 	// main method to start running calendar program
 	public static void main(String[] args) throws FileNotFoundException
